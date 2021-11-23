@@ -7,6 +7,7 @@ public class DoWhileDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		   int count=0;
+                   int number;
 	       String s="no";
 	       Scanner sc=new Scanner(System.in);
 	       do {
